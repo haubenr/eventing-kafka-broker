@@ -52,4 +52,7 @@ import (
 
 	// Event log utility for e2e channel testing
 	_ "knative.dev/eventing/cmd/event_display"
+
+	// HAUBENR: TODO
+	_ "pierdipi/sacura/cmd/sacura"
 )
